@@ -2,4 +2,4 @@
 
 **Trying to create a game engine with Vulkan.**
 
-**Building and learning.**
+**Building and learning hehe.**
